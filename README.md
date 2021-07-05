@@ -8,7 +8,7 @@
 
 
 ### Sobre mim: 
-<img src="https://avatars1.githubusercontent.com/u/65797644?s=400&u=da2b631b1a668513ec4ec07256c47e6298ab9a5e&v=4" width="180" height="180"/>
+<img src="https://instagram.fsdu7-1.fna.fbcdn.net/v/t51.2885-15/e35/118651817_313385289916555_2610477905036362042_n.jpg?tp=1&_nc_ht=instagram.fsdu7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=tuZNmd2fSPQAX-y3L34&edm=AP_V10EBAAAA&ccb=7-4&oh=0246295fa874e057c0f45d38d7b47d6e&oe=60EA8CFB&_nc_sid=4f375e" width="180" height="180"/>
 
 - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
 - ✍🏼  Tenho pouca experiência como desenvolvedor para terceiros
