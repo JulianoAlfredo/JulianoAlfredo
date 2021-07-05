@@ -8,7 +8,7 @@
 
 
 ### Sobre mim: 
-<img src="https://avatars1.githubusercontent.com/u/65797644?s=400&u=da2b631b1a668513ec4ec07256c47e6298ab9a5e&v=4" width="90" height="90"/>
+<img src="https://avatars1.githubusercontent.com/u/65797644?s=400&u=da2b631b1a668513ec4ec07256c47e6298ab9a5e&v=4" width="180" height="180"/>
 
 - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
 - ✍🏼  Tenho pouca experiência como desenvolvedor para terceiros
