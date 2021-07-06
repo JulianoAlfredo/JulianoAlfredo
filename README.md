@@ -23,4 +23,5 @@
 - 🧑‍💻 Ter uma noção na área de segurança.
 
 <br>
+</br>
 [![Commit Badge](https://img.shields.io/github/commit-activity/m/Anjinhuh/currency-website)
