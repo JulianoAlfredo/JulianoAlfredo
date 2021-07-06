@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JubisG)](https://twitter.com/JubisG)
 
-[![Commit Badge](https://img.shields.io/github/commit-activity/m/Anjinhuh/currency-website)]
+![Commit Badge](https://img.shields.io/github/commit-activity/m/Anjinhuh/currency-website)
 
 
 
