@@ -11,7 +11,7 @@
 
 
 ### Sobre mim: 
-<img src="https://www.7pace.com/wp-content/uploads/2020/08/cover-dev-productivity.png" width="180" height="180"/>
+<img src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif" width="180" height="180"/>
 
 - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
 - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
