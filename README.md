@@ -11,7 +11,7 @@
 
 
 ### Sobre mim: 
-<img src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" width="600" height="400"/>
+<img src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/developer-dribbble.gif" width="600" height="300"/>
 
 - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
 - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
