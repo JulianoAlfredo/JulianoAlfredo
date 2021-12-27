@@ -9,7 +9,7 @@
 
 
 ### Sobre mim: 
-<a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=0aj" width="400" alt="Juliano's Dev Card"/></a>
+<a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=zed" width="400" alt="Juliano's Dev Card"/></a>
 
 - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
 - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
