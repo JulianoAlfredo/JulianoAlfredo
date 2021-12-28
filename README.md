@@ -25,8 +25,8 @@
   [![Instagram Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdEOSHRWQsVtdd2CZ_-49yA)](https://www.youtube.com/channel/UCdEOSHRWQsVtdd2CZ_-49yA)
 
 ### Configuração computador:
-[![Nvidia Badge](https://img.shields.io/badge/NVIDIA-GTX1660SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]
-[![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]
+![Nvidia Badge](https://img.shields.io/badge/NVIDIA-GTX1660SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
  
   
   
