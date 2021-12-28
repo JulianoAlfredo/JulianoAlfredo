@@ -23,4 +23,3 @@
 
 
 
-<img src="https://github.com/Anjinhuh/Anjinhuh/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
