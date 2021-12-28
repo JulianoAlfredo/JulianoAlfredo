@@ -1,18 +1,17 @@
 # Olá, me chamo Juliano. 😅🚀
 <div style="display: flex;">
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Anjinhuh)](https://github.com/Anjinhuh)
+  <div>
+    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Anjinhuh)](https://github.com/Anjinhuh)
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JubisG)](https://twitter.com/JubisG)
+    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JubisG)](https://twitter.com/JubisG)
+  </div>
   
-   <a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=zed" width="400" alt="Juliano's Dev Card"/></a>
+  <div>
+    <a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=zed" width="400" alt="Juliano's Dev Card"/></a>
+  </div>
+  
+  
 </div>
-
-
-
-
-
-
-
 
 
 ### Sobre mim: 
