@@ -1,7 +1,7 @@
 # Olá, me chamo Juliano. 😅🚀
 <div style="display: flex;">
   <div>
-   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JubisG)(https://twitter.com/JubisG)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JubisG)](https://twitter.com/JubisG)
   </div>
   
   <div>
