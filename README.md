@@ -20,3 +20,7 @@
 - 🦾 Criação de **STARTUP** própria.
 - 🧠 Completar ensino superior em alguma área da tecnologia.
 - 🧑‍💻 Ter uma noção na área de segurança.
+
+
+
+<img src="https://github.com/Anjinhuh/Anjinhuh/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
