@@ -22,6 +22,7 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/almeidajulianos)](https://instagram.com/almeidajulianos)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/julianoalfredinho)](https://open.spotify.com/user/julianoalfredinho)
   [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/Anjinhuh)](https://www.twitch.tv/Anjinhuh)
+  [![Instagram Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdEOSHRWQsVtdd2CZ_-49yA)](https://www.youtube.com/channel/UCdEOSHRWQsVtdd2CZ_-49yA)
  
   
   
