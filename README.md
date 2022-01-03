@@ -32,3 +32,6 @@
   
   
 ![Snake animation](https://github.com/Anjinhuh/Anjinhuh/blob/output/github-contribution-grid-snake.svg)
+
+  <img src='https://profile-counter.glitch.me/Anjinhuh/count.svg' />
+
