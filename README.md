@@ -1,5 +1,5 @@
 # Olá, me chamo Juliano. 😅🚀
-<div styles='display: flex; flex-direction: row;'>
+<div style='display: flex; flex-direction: row;'>
   <a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=zed" width="400" alt="Juliano's Dev Card"/></a>
 
   
