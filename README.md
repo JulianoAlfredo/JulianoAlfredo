@@ -29,9 +29,3 @@
 ![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows_11-0071C5?style=for-the-badge&logo=windows&logoColor=white)
  
-  
-  
-![Snake animation](https://github.com/Anjinhuh/Anjinhuh/blob/output/github-contribution-grid-snake.svg)
-
-  <img src='https://profile-counter.glitch.me/Anjinhuh/count.svg' />
-
