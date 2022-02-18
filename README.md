@@ -6,15 +6,14 @@
   </div>
   
   ### Sobre mim: 
-  - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**. Mas tento o máximo ser **FULL-STACK** em projetos _próprios_.
+  - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**.
   - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
   - 💻 Eu comecei na área de hardware, como técnico em informática. Hoje tenhou pouco contato, apenas com Arduino e computadores próprios.
 
   ### Objetivos: 
 
   - 🦾 Criação de **STARTUP** própria.
-  - 🧠 Completar ensino superior em alguma área da tecnologia.
-  - 🧑‍💻 Ter uma noção na área de segurança.
+  - 🧠 Cursando Engenharia da Computação at Universidade Veiga de Almeida.
  
 </div>
 
