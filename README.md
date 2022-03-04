@@ -3,6 +3,8 @@
   
   <div>
     <a href="https://app.daily.dev/Anjinho"><img src="https://api.daily.dev/devcards/2f172cc0232e40f49f8e717a8c4555b3.png?r=zed" width="400" alt="Juliano's Dev Card"/></a>
+    <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliano-alfredo-3129b71ab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/juliano-alfredo-3129b71ab?trk=profile-badge">Juliano Alfredo</a></div>
+              
   </div>
   
   ### Sobre mim: 
