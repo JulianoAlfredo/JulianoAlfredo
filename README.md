@@ -1,8 +1,7 @@
 # Olá, me chamo Juliano. 😅🚀
 <div style='display: flex;'>
   
-    <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliano-alfredo-3129b71ab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/juliano-alfredo-3129b71ab?trk=profile-badge">Juliano Alfredo</a>
-    </div>
+    <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juliano-alfredo-3129b71ab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/juliano-alfredo-3129b71ab?trk=profile-badge">Juliano Alfredo</a></div>
   ### Sobre mim: 
   - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**.
   - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
