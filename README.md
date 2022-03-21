@@ -18,8 +18,8 @@
       <img style='width: 2vw; height 1vh'  src='https://user-images.githubusercontent.com/65797644/159199308-b273db55-ca98-48da-a430-9234a1e9df53.png' />
   </div>
   
-### Linkedin
- 
+### Linkedin:
+  Conecte-se comigo!
   <a href='https://www.linkedin.com/in/juliano-de-almeida-3129b71ab/'>  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
  
   
