@@ -1,5 +1,5 @@
 # Olá, me chamo Juliano. 😅🚀
-<div style='display: flex; width: 100%; justify-content: center; flex-direction: column'>
+
   ### Sobre mim: 
   - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não gosto de atuar em ambas simultâneamente.
   - ✍🏼 Em busca de experiência.
@@ -29,4 +29,3 @@
 ![Nvidia Badge](https://img.shields.io/badge/NVIDIA-GTX1660SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows_11-0071C5?style=for-the-badge&logo=windows&logoColor=white)
- </div>
