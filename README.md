@@ -1,5 +1,5 @@
 # Olá, me chamo Juliano. 😅🚀
-<div style='display: flex; width: 100%; justify-content: center;'>
+<div style='display: flex; width: 100%; justify-content: center; flex-direction: column'>
   ### Sobre mim: 
   - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não gosto de atuar em ambas simultâneamente.
   - ✍🏼 Em busca de experiência.
