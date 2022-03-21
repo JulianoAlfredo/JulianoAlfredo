@@ -22,11 +22,3 @@
   ##### Conecte-se comigo!
   <a href='https://www.linkedin.com/in/juliano-de-almeida-3129b71ab/'>  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
  
-  
-
-
-  
-  ### Configuração computador:
-![Nvidia Badge](https://img.shields.io/badge/NVIDIA-GTX1660SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows_11-0071C5?style=for-the-badge&logo=windows&logoColor=white)
