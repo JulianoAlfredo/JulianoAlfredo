@@ -12,8 +12,8 @@
   - 🧠 Terminar a faculdade de Engenharia da Computação
  
 </div>
-### Afinidades:
-  <div style='display: flex; width: 100vw; justify-content: center;'>
+### Redes sociais:
+  <div style='display: flex; width: 100vw; justify-content: center; align-itens:center;'>
       <img style='width: 2vw; height 1vh' src='https://user-images.githubusercontent.com/65797644/159199217-a8087d8f-9053-49fe-9d2b-db67e4f03411.png' />
       <img  style='width: 2vw; height 1vh'  src='https://user-images.githubusercontent.com/65797644/159199242-b811ff1c-7977-48cd-9b7c-290aa8665b76.png' />
       <img style='width: 2vw; height 1vh'  src='https://user-images.githubusercontent.com/65797644/159199279-b66162e2-38fe-4d33-bd85-711d013dec3b.png' />
