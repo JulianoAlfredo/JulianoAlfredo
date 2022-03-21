@@ -14,11 +14,12 @@
 </div>
 ### Afinidades:
   <div>
-    [![JavaScript](https://user-images.githubusercontent.com/65797644/159199217-a8087d8f-9053-49fe-9d2b-db67e4f03411.png)]
-    [![AA](https://user-images.githubusercontent.com/65797644/159199242-b811ff1c-7977-48cd-9b7c-290aa8665b76.png)]
-    [![im22age](https://user-images.githubusercontent.com/65797644/159199279-b66162e2-38fe-4d33-bd85-711d013dec3b.png)]
-    [![imag4e](https://user-images.githubusercontent.com/65797644/159199300-5db1b31a-21df-4af3-9f8e-316a88545627.png)]
-    [![imag4e](https://user-images.githubusercontent.com/65797644/159199308-b273db55-ca98-48da-a430-9234a1e9df53.png)]
+      <img src='https://user-images.githubusercontent.com/65797644/159199217-a8087d8f-9053-49fe-9d2b-db67e4f03411.png' />
+  
+      [![AA](https://user-images.githubusercontent.com/65797644/159199242-b811ff1c-7977-48cd-9b7c-290aa8665b76.png)]
+      [![im22age](https://user-images.githubusercontent.com/65797644/159199279-b66162e2-38fe-4d33-bd85-711d013dec3b.png)]
+      [![imag4e](https://user-images.githubusercontent.com/65797644/159199300-5db1b31a-21df-4af3-9f8e-316a88545627.png)]
+      [![imag4e](https://user-images.githubusercontent.com/65797644/159199308-b273db55-ca98-48da-a430-9234a1e9df53.png)]
   </div>
 ### Redes sociais:
 
