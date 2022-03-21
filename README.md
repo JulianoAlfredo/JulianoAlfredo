@@ -1,8 +1,5 @@
 # Olá, me chamo Juliano. 😅🚀
-<div style='display: flex;'>
-                
-  </div>
-  
+<div style='display: flex; width: 100%; justify-content: center;'>
   ### Sobre mim: 
   - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não gosto de atuar em ambas simultâneamente.
   - ✍🏼 Em busca de experiência.
@@ -11,9 +8,9 @@
   ### Objetivos: 
   - 🧠 Terminar a faculdade de Engenharia da Computação
  
-</div>
+
   ### Objetivos: 
-  <div style='display: flex; width: 100vw; justify-content: center; align-itens:center;'>
+  <div style='display: flex; width: 100%; justify-content: center; align-itens:center;'>
       <img style='width: 2vw; height 1vh' src='https://user-images.githubusercontent.com/65797644/159199217-a8087d8f-9053-49fe-9d2b-db67e4f03411.png' />
       <img  style='width: 2vw; height 1vh'  src='https://user-images.githubusercontent.com/65797644/159199242-b811ff1c-7977-48cd-9b7c-290aa8665b76.png' />
       <img style='width: 2vw; height 1vh'  src='https://user-images.githubusercontent.com/65797644/159199279-b66162e2-38fe-4d33-bd85-711d013dec3b.png' />
@@ -32,4 +29,4 @@
 ![Nvidia Badge](https://img.shields.io/badge/NVIDIA-GTX1660SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows_11-0071C5?style=for-the-badge&logo=windows&logoColor=white)
- 
+ </div>
