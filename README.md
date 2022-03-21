@@ -4,14 +4,12 @@
   </div>
   
   ### Sobre mim: 
-  - 👨🏼‍🏫 Sou um desenvolvedor mais focado no **BACK-END**.
-  - ✍🏼 Tenho pouca experiência como desenvolvedor para terceiros
-  - 💻 Eu comecei na área de hardware, como técnico em informática. Hoje tenhou pouco contato, apenas com Arduino e computadores próprios.
+  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não gosto de atuar em ambas simultâneamente.
+  - ✍🏼 Em busca de experiência.
+  - 💻 Comecei em hardware, como técnico em informática. Hoje tenho pouco contato, apenas com Arduino e computadores próprios.
 
   ### Objetivos: 
-
-  - 🦾 Criação de **STARTUP** própria.
-  - 🧠 Cursando Engenharia da Computação at Universidade Veiga de Almeida.
+  - 🧠 Terminar a faculdade de Engenharia da Computação
  
 </div>
 
