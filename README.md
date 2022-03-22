@@ -1,9 +1,9 @@
 # Olá, me chamo Juliano. 😅🚀
 
   ### Sobre mim: 
-  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não gosto de atuar em ambas simultâneamente.
+  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não atuo em ambas simultâneamente.
   - ✍🏼 Em busca de experiência.
-  - 💻 Comecei em hardware, como técnico em informática. Hoje tenho pouco contato, apenas com Arduino e computadores próprios.
+  - 💻 Comecei em hardware, como técnico em informática.
 
   ### Objetivos: 
   - 🧠 Terminar a faculdade de Engenharia da Computação
