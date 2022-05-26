@@ -1,7 +1,7 @@
 # Olá, me chamo Juliano. 😅🚀
 
   ### Sobre mim: 
-  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas não atuo em ambas simultâneamente.
+  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas com prioridade em back-end.
   - ✍🏼 Em busca de experiência.
   - 💻 Comecei em hardware, como técnico em informática.
 
