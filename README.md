@@ -1,9 +1,9 @@
 # Olá, me chamo Juliano. 😅🚀
   Atualmente, estou cursando Engenharia da Computação na Universidade Veiga de Almeida
   ### Sobre mim: 
-  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas com prioridade em back-end.
+  - 👨🏼‍🏫 Sou um desenvolvedor FULL STACK. Mas busco ser back-end.
   - ✍🏼 Em busca de experiência.
-  - 💻 Comecei em hardware, como técnico em informática.
+  - 💻 Sou técnico em informática.
 
   ### Objetivos: 
   - 🧠 Terminar a faculdade de Engenharia da Computação
