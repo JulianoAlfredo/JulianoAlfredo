@@ -1,5 +1,5 @@
 ### Hello there 👋.
-  Actually, I am looking to be a computer engineer at Universidade Veiga de Almeida. I have my bachelor's degree for 2027
+  Currently, I'm looking to be a computer engineer at Universidade Veiga de Almeida. I have my bachelor's degree for 2027.
   
 - :closed_book:  I have some experiences in the area, but I no have a job. I'm a freelancer and searching a job, because this is my dream, I study all days to be a backend developer. All days, I update my projects and do a new projects.
 
